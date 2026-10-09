@@ -514,3 +514,21 @@ html{
         padding: 0 1rem;
     }
 }
+
+/* GitHub Pages educational-project disclaimer */
+.educational-disclaimer {
+    display: block;
+    width: 100%;
+    padding: 0.85rem 1.1rem;
+    background-color: #b30000;
+    color: #ffffff;
+    border-bottom: 2px solid #800000;
+    text-align: center;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.educational-disclaimer strong {
+    font-weight: 800;
+}
